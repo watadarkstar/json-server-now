@@ -2,7 +2,7 @@
 
 Getting json-server to work on now.sh in 2019
 
-#Getting started.
+# Getting started.
 
 ```
 git clone https://github.com/thedamian/json-server-now.git
